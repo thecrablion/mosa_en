@@ -1,0 +1,26 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: SAMEORIGIN
+  Cache-Control: public, max-age=3600
+
+/houston/fall/img/*
+  Cache-Control: public, max-age=604800
+
+/houston/fall/hourglass/img/*
+  Cache-Control: public, max-age=604800
+
+/houston/fall/rectangle/img/*
+  Cache-Control: public, max-age=604800
+
+/houston/fall/pear/img/*
+  Cache-Control: public, max-age=604800
+
+/houston/fall/inverted-triangle/img/*
+  Cache-Control: public, max-age=604800
+
+/houston/fall/oval/img/*
+  Cache-Control: public, max-age=604800
+
+/houston/fall/athletic/img/*
+  Cache-Control: public, max-age=604800

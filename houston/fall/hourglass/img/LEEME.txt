@@ -1,0 +1,11 @@
+WebP, 900×1125 (4:5), calidad cerca de 75. Nombres exactos:
+
+warm-undertone.webp
+cool-undertone.webp
+
+Mismo cuerpo hourglass, 5'4, tarde de octubre en Houston. No es el elenco de Guadalajara.
+warm-undertone.webp: undertone cálido, olivo o rust, camisa fajada.
+cool-undertone.webp: mismo corte, burgundy o stone. El camel se ve sucio: no lo uses de hero aquí.
+
+warm-undertone.webp es la primera foto: se pide enseguida.
+cool-undertone.webp lleva loading=lazy. El hueco 4:5 ya está reservado.

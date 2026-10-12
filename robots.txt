@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# sitemap for this cell (Houston × fall): these URLs only
+Sitemap: https://mosa.com/sitemap-houston-fall.xml

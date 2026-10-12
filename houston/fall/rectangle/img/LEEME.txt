@@ -1,0 +1,11 @@
+WebP, 900×1125 (4:5), calidad cerca de 75. Nombres exactos:
+
+warm-undertone.webp
+cool-undertone.webp
+
+Mismo cuerpo rectangular, 5'4.
+warm-undertone.webp: undertone cálido, columna olivo, sin cinturón.
+cool-undertone.webp: camisa stone y pantalón burgundy, sin hebilla.
+
+warm-undertone.webp es la primera foto: se pide enseguida.
+cool-undertone.webp lleva loading=lazy. El hueco 4:5 ya está reservado.

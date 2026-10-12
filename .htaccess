@@ -1,0 +1,11 @@
+# mosa.com — https, no www, trailing slash
+RewriteEngine On
+RewriteCond %{HTTPS} !=on [OR]
+RewriteCond %{HTTP_HOST} ^www\.mosa\.com [NC]
+RewriteRule ^(.*)$ https://mosa.com/$1 [R=301,L]
+RewriteRule ^$ /houston/fall/ [R=301,L]
+RewriteCond %{REQUEST_URI} !\.(xml|txt|html?|css|js|jpe?g|png|webp|svg|ico|pdf)$
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^(.*[^/])$ /$1/ [R=301,L]
+ErrorDocument 404 /404.html
+DirectoryIndex index.html

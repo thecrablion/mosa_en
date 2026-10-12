@@ -1,0 +1,11 @@
+WebP, 900×1125 (4:5), calidad cerca de 75. Nombres exactos:
+
+warm-undertone.webp
+cool-undertone.webp
+
+Misma mujer, hombro recto, poco talle, 5'4. Sin volante.
+warm-undertone.webp: olivo suave, pantalón recto.
+cool-undertone.webp: camisa stone, pantalón recto, chamarra a la cadera.
+
+warm-undertone.webp es la primera foto: se pide enseguida.
+cool-undertone.webp lleva loading=lazy. El hueco 4:5 ya está reservado.
