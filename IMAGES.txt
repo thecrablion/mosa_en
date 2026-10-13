@@ -1,0 +1,59 @@
+Image manifest - My Own Style
+
+Updated: 2026-10-13 - 9 folders - 18 files to produce.
+
+WebP, 900x1125, 4:5, quality ~75. The site's signature shot: the same garment on
+two bodies, so the difference is visible instead of asserted.
+occasions/baby-shower/img/  (What to wear to a baby shower, and to a bridal shower)
+  img/shower-garden.webp
+    alt: Woman in a sage midi dress and block heels at an outdoor baby shower
+  img/shower-indoor.webp
+    alt: Guest in a blouse and trousers at a restaurant baby shower, holding a wrapped gift
+
+occasions/concert/img/  (What to wear to a concert)
+  img/concert-lawn.webp
+    alt: Woman in a breathable dress and block heels on an amphitheater lawn at sunset
+  img/concert-arena.webp
+    alt: The same outfit adapted to an arena: flat shoes, small crossbody bag, cropped jacket
+
+occasions/court/img/  (What to wear to court, and to a day of jury duty)
+  img/court-day.webp
+    alt: Woman in a navy blouse and trousers with a cardigan over her arm, outside a courthouse
+  img/court-shoes.webp
+    alt: Close-up of closed low-heel shoes with a notebook and a bottle of water
+
+occasions/first-day-of-work/img/  (What to wear on the first day, and how to read the code)
+  img/first-day-baseline.webp
+    alt: Woman in navy trousers, a cream blouse and a structured jacket outside an office building
+  img/first-day-friday.webp
+    alt: Dark straight-leg jeans with a blouse and loafers in a creative office
+
+occasions/funeral/img/  (What to wear to a funeral, without making it about you)
+  img/funeral-service.webp
+    alt: Woman in a dark dress and low block heel outside a funeral home, holding a small bag
+  img/funeral-graveside.webp
+    alt: Close-up of block-heel shoes on grass at a graveside service
+
+occasions/graduation/img/  (What to wear to a graduation, under the gown and after it)
+  img/grad-gown.webp
+    alt: Graduate in a gown with block-heel shoes visible under the hem, outdoors
+  img/grad-party.webp
+    alt: Family in smart casual outfits at a backyard graduation party
+
+occasions/holiday-party/img/  (What to wear to a holiday party, work edition)
+  img/holiday-party.webp
+    alt: Woman in a dark green velvet dress and gold earrings at an office holiday party
+  img/holiday-party-work.webp
+    alt: Trousers, satin top and a jacket at an office party, holding a coat
+
+occasions/job-interview/img/  (What to wear to a job interview)
+  img/interview-fitted.webp
+    alt: Woman in a navy blazer with the shoulder seam on the bone and sleeve at the wrist
+  img/interview-unfitted.webp
+    alt: The same blazer a size up: shoulder past the bone, sleeve covering the hand
+
+occasions/wedding-guest/img/  (What to wear to a wedding as a guest)
+  img/wedding-guest-day.webp
+    alt: Woman in a midi dress at a daytime garden wedding, warm light
+  img/wedding-guest-night.webp
+    alt: The same silhouette in the evening version, darker color, heels on hard floor

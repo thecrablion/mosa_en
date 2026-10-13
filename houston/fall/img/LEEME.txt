@@ -1,8 +1,0 @@
-Pon este archivo en esta carpeta, con este nombre:
-
-hero.webp
-
-WebP, 900×1125 (proporción 4:5), calidad cerca de 75.
-Una mujer en Houston, tarde de octubre, después de llover. No es un close de cuerpo.
-La página reserva el hueco aunque el archivo tarde.
-Esta es la primera foto: no lleva lazy.

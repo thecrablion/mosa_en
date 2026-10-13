@@ -4,23 +4,11 @@
   X-Frame-Options: SAMEORIGIN
   Cache-Control: public, max-age=3600
 
-/houston/fall/img/*
+/*/img/*
   Cache-Control: public, max-age=604800
 
-/houston/fall/hourglass/img/*
+/*/*/img/*
   Cache-Control: public, max-age=604800
 
-/houston/fall/rectangle/img/*
-  Cache-Control: public, max-age=604800
-
-/houston/fall/pear/img/*
-  Cache-Control: public, max-age=604800
-
-/houston/fall/inverted-triangle/img/*
-  Cache-Control: public, max-age=604800
-
-/houston/fall/oval/img/*
-  Cache-Control: public, max-age=604800
-
-/houston/fall/athletic/img/*
+/*/*/*/img/*
   Cache-Control: public, max-age=604800

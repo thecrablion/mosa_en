@@ -1,28 +1,67 @@
 {
   "trailingSlash": true,
-  "redirects": [
-    { "source": "/", "destination": "/houston/fall/", "permanent": true }
-  ],
   "headers": [
     {
       "source": "/(.*)",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-        { "key": "X-Frame-Options", "value": "SAMEORIGIN" }
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        }
       ]
     },
     {
       "source": "/(.*)\\.webp",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=604800" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=604800"
+        }
       ]
     },
     {
       "source": "/(.*)\\.html",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=3600" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600"
+        }
       ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/houston/fall/wedding-guest/*",
+      "destination": "/occasions/wedding-guest/",
+      "permanent": true
+    },
+    {
+      "source": "/petite/work-outfits/*",
+      "destination": "/occasions/job-interview/",
+      "permanent": true
+    },
+    {
+      "source": "/houston/fall/*",
+      "destination": "/occasions/",
+      "permanent": true
+    },
+    {
+      "source": "/houston/*",
+      "destination": "/occasions/",
+      "permanent": true
+    },
+    {
+      "source": "/petite/*",
+      "destination": "/occasions/",
+      "permanent": true
     }
   ]
 }
